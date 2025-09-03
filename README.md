@@ -12,5 +12,5 @@
 
 <p align="center">
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=avinh&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinh&layout=compact&hide_border=true&hide=html,css&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinh&layout=compact&hide_border=true&hide=html,css,vue&langs_count=6" />
 </p>
